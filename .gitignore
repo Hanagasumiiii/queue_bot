@@ -17,5 +17,13 @@
 # Dependency directories (remove the comment below to include it)
 # vendor/
 
-# Go workspace file
+# Go files
 go.work
+go.mod
+go.sum
+
+*.env
+
+.idea
+
+s
